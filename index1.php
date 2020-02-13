@@ -33,7 +33,7 @@
                     <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="#">Accueil</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link btn btn-outline-secondary mx-2" href="#">Rejoignez-nous</a>
+                    <a class="nav-link btn btn-outline-secondary mx-2" href="join.php">Rejoignez-nous</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="#">Partenaires</a>

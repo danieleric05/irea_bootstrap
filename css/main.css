@@ -1,10 +1,25 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'Impact';
+    src: 'fonts/Impact.ttf';
+    font-family: 'HelveticaNeue';
+    src: 'fonts/HelveticaNeue.ttf';
+    font-family: 'MyriadPro-Bold';
+    src: 'fonts/MyriadPro-Bold.ttf';
+    font-family: 'MyriadPro-Regular';
+    src: 'fonts/MyriadPro-Regular.ttf';
+    font-family: 'NixieOne';
+    src: 'fonts/NixieOne.ttf';
+}
+
+
+}
 .banner {
     background: url(../img/bg-0.jpg) repeat-x;
     background-size: 100%;
     width: 100%;
     height: 1400px;
 }
-
 .marge {
     margin-top: 50px;
 }
