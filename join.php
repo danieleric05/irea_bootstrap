@@ -55,9 +55,29 @@
             </div>
         </nav>
     </header>
-    <main role="main">
-        
-    </main>
+    <section class="container-fluid banner_join">
+        <div class="container">
+            <div class="ban">
+                <img src="" alt="bannière de la page">
+            </div>
+            <div class="inner-banner">
+                <a href="" class="btn btn-primary">Télécharger notre Brochure</a>
+            </div>
+        </div>
+    </section>
+    <section class="container-fluid avantage">
+        <div class="container">
+            <div class="row">
+                <article class="col-md-2 col-lg-2 col-xs-6 col-sm-6"></article>
+                <article class="col-md-2 col-lg-2 col-xs-6 col-sm-6"></article>
+                <article class="col-md-2 col-lg-2 col-xs-6 col-sm-6"></article>
+                <article class="col-md-2 col-lg-2 col-xs-6 col-sm-6"></article>
+                <article class="col-md-2 col-lg-2 col-xs-6 col-sm-6"></article>
+                <article class="col-md-2 col-lg-2 col-xs-6 col-sm-6"></article>
+            </div>
+        </div>
+    </section>
+
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then kBootstrap JS -->
