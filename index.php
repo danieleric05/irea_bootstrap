@@ -18,7 +18,7 @@
     <section class="container-fluid">
         <div class="container">
             <div class="block marge">
-                <video class="col-md-12 col-sm-12" src="../animation/page2garde.webm" autoplay loop></video>
+                <video class="col-md-12 col-sm-12" src="animation/page2garde.webm" autoplay loop></video>
                 <div class="block">
                     <a href="index1.php" class="btn btn-primary">Accéder au site</a>
                 </div>

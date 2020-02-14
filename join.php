@@ -61,7 +61,7 @@
                 <img src="" alt="bannière de la page">
             </div>
             <div class="inner-banner">
-                <a href="" class="btn btn-primary">Télécharger notre Brochure</a>
+                <a href="3" class="btn btn-primary">Télécharger notre Brochure</a>
             </div>
         </div>
     </section>
