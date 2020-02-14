@@ -76,6 +76,49 @@ EXPERTISE IMMOBILIÈRE, FONCIÈRE & JUDICIAIRE STRATÉGIE IMMOBILIÈRE & FONCIÈ
                 <div class="col p-0"><img src="" class="img-fluid" alt=""></div>
             </div>
         </div>
+        <section>
+        <div class="container">
+            <div class="row mt-4 mb-3">
+                <div class="col border"><video class="mx-auto" style="width: 379px !important;" src="animation/anim1.webm" autoplay loop></video></div>
+                <div class="col border">
+                <p><strong>Estimation en valeur vénale et locative des biens immobiliers résidentiels dans des contextes d'achat ou de vente, de règlement de succession ou 
+                de donation, de détermination de valeurs hypothécaires.</strong><br>Appartement, immeuble de rapport, maison individuelle ou jumelée, propriété d'exception <br><br>
+                <strong>Estimation en valeur vénale et locative des biens immobiliers professionnels</strong><br>
+                Locaux d'activités, entrepôts, logistiques, locaux industriels, bureaux etc... <br><br>
+                <strong>Evaluation de fonds de commerce</strong><br><br>
+                <strong>Evaluation foncière réalisée sur des approches budgétaires des opérations d'aménagement selon la méthode compte à 
+                rebours promoteurs ou aménageurs.</strong><br>
+                Terrains à batir, division parcellaire, calcul de charge foncière etc...</p>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <div class="col border"><video class="mx-auto" style="width: 379px !important;" src="animation/anim2.webm" autoplay loop></video></div>
+                <div class="col border"><strong>stratégie foncière en vue de l'organisation d'un projet urbain susceptible de satisfaire les préoccupations 
+                environnementales, économiques et sociales :</strong><br><br>
+                Prospection foncière : études intercommunales globales, repérages des gisements fonciers, analyse des terraisn;<br><br>
+                Restitution opérationnelle de la prospection : création d'un plan d'action foncière, annexion des fiches foncières, création 
+                d'une convention de ville foncière.</div>
+            </div>
+
+            <div class="row mb-3">
+            <div class="col border"><video class="mx-auto" style="width: 375px !important;" src="animation/anim3-2.webm" autoplay loop></video></div>
+            <div class="col border"><video class="mx-auto" style="width: 375px !important;" src="animation/anim3.webm" autoplay loop></video></div>
+            </div>
+
+            <div class="row mb-3">
+                <div class="col border"><video class="mx-auto" style="width: 379px !important;" src="animation/anim4.webm" autoplay loop></video></div>
+                <div class="col border">
+                    <h1>INGENIERIE FONCIERE</h1>
+                    <P>Aide à la négociation ou à la mise en oeuvre des outils de l'action foncière permettant de continuer les réserves foncières 
+                    en amont de la phrase de réalisation des projets publics d'aménagement : exercice de droits de préemptions et de procédures 
+                    d'expropriation;<br>
+                    Réalisation de divers types d'opérations d'aménagement : restructuration urbaine, restauration urbaine, réhabilitation urbaine, 
+                    renouvellement urbain, amélioration urbaine.</P>
+                </div>
+            </div>
+        </div>
+        </section>
     </main>
 
     <!-- Optional JavaScript -->
