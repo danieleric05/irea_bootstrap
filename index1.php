@@ -77,7 +77,7 @@ EXPERTISE IMMOBILIÈRE, FONCIÈRE & JUDICIAIRE STRATÉGIE IMMOBILIÈRE & FONCIÈ
             </div>
         </div>
         <section>
-        <div class="container">
+        <div class="">
             <div class="row mt-4 mb-3">
                 <div class="col border"><video class="mx-auto" style="width: 379px !important;" src="animation/anim1.webm" autoplay loop></video></div>
                 <div class="col border">
