@@ -77,7 +77,7 @@
                 <div class="row">
                     <div class="col">
                         <h3 class="color_green">Avantage 1</h3>
-                        <img class="img-fluid" src="../img/bg1-1.jpg" alt="">
+                        <img class="img-fluid" src="img/bg1-1.jpg" alt="">
                         <p>Pour toute acquisition,
                             nous contrôlons pour vous tous les documents relatifs à l’achat, réalisons des enquêtes
                             foncières et vous conseillons à partir d’un rapport soutenu par des images.
@@ -85,7 +85,7 @@
                     </div>
                     <div class="col">
                         <h3 class="color_green">Avantage 2</h3>
-                        <img class="img-fluid" src="../img/bg1-2.jpg" alt="">
+                        <img class="img-fluid" src="img/bg1-2.jpg" alt="">
                         <p>Lorsque vous construisez en Côte d’Ivoire pendant votre présence à l’étranger, nous suivons
                             les travaux de construction avec votre entrepreneur depuis la fondation jusqu’à la finition
                             avec un rapport à chaque étape de réalisation.
@@ -93,28 +93,28 @@
                     </div>
                     <div class="col">
                         <h3 class="color_green">Avantage 3</h3>
-                        <img class="img-fluid" src="../img/bg1-3.jpg" alt="">
+                        <img class="img-fluid" src="img/bg1-3.jpg" alt="">
                         <p>Vous avez déjà un bien en Côte d’Ivoire dont les titres de propriété sont en cours
                             d’établissement au niveau administratif, nous vous apportons notre assistance.
                         </p>
                     </div>
                     <div class="col">
                         <h3 class="color_green">Avantage 4</h3>
-                        <img class="img-fluid" src="../img/bg1-4.jpg" alt="">
+                        <img class="img-fluid" src="img/bg1-4.jpg" alt="">
                         <p>Avant tout achat ou de vente de terrains et/ou de maison, maitrisez vos coûts en nous
                             confiant l’expertise immobilière, le diagnostic immobilier et tout autre évaluation.
                         </p>
                     </div>
                     <div class="col">
                         <h3 class="color_green">Avantage 5</h3>
-                        <img class="img-fluid" src="../img/bg1-5.jpg" alt="">
+                        <img class="img-fluid" src="img/bg1-5.jpg" alt="">
                         <p>Des professionnels à l’écoute, disposés à vous informer régulièrement sur l’évolution de
                             votre dossier.
                         </p>
                     </div>
                     <div class="col">
                         <h3 class="color_green">Avantage 6</h3>
-                        <img class="img-fluid" src="../img/bg1-6.jpg" alt="">
+                        <img class="img-fluid" src="img/bg1-6.jpg" alt="">
                         <p>A travers notre réseau, bénéficiez de la saisine de nos partenaires avocats, notaires,
                             fiscalistes, architectes, agents immobiliers, experts immobiliers…
 

@@ -30,19 +30,19 @@
                 </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="#">Accueil</a>
+                    <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="index1.php">Accueil</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link btn btn-outline-secondary mx-2" href="join.php">Rejoignez-nous</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="#">Partenaires</a>
+                    <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="partenaire.php">Partenaires</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="#">Prestations</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="#">Contactez-nous</a>
+                    <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="contact_us">Contactez-nous</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="#">Connexion</a>
