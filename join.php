@@ -56,9 +56,9 @@
         </nav>
     </header>
     <main role="main">
-        <section class="container-fluid">
-            <div class="row banner_join">
-                <div class="text-center">
+        <section class="mt-5">
+            <div class="jumbotron jumbotron-fluid banner_join"">
+                <div class="mx-auto" style="width: 300px;">
                     <button class="btn btn-success btn-lg" href="#" role="button">Télécharger notre brochure</button>
                 </div>
             </div>
