@@ -22,7 +22,27 @@
 .marge {
     margin-top: 50px;
 }
-.ban {
-    width: 100%;
-    height: 1400px;
+.banner_join {
+    background: url(../img/bg1.jpg) !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    text-align: center !important;
+    width: 100% !important;
+}
+.banner_partenaire {
+    margin-top: 100px !important;
+    background: url(../img/bg3.jpg) repeat-x !important;
+    background-size: 100% !important;
+    margin-top: 50px !important;
+    width: 100% !important;
+    height: 255px !important;
+}
+.topbanner {
+    text-align: center;
+}
+.top {
+    margin-top: 100px;
+}
+.color_green {
+    color: #036733;
 }
