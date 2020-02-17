@@ -37,16 +37,16 @@
                         <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="index.php">Accueil</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link btn btn-outline-secondary mx-2" href="#">Rejoignez-nous</a>
+                        <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="#">Rejoignez-nous</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="#">Partenaires</a>
+                        <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="partenaire.php">Partenaires</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="#">Prestations</a>
+                        <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="prestations.php">Prestations</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="#">Contactez-nous</a>
+                        <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="contact_us.php">Contactez-nous</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="#">Connexion</a>

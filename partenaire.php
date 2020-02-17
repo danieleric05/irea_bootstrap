@@ -37,7 +37,7 @@
                         <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="index.php">Accueil</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link btn btn-outline-secondary mx-2" href="join.php">Rejoignez-nous</a>
+                        <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="join.php">Rejoignez-nous</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="#">Partenaires</a>
@@ -59,14 +59,15 @@
         <section class="container-fluid">
             <div class="row banner_join">
                 <div class="text-center">
-                    <button class="btn btn-success btn-lg" href="#" role="button">Télécharger notre brochure</button>
+                    <button class="btn btn-success btn-lg" href="#" role="button">Tous nos partenaires ici</button>
                 </div>
             </div>
 
         </section>
         <div class="container">
-            <h2 class="text-center" style="color:#026734; background-color :#facbcc;">Venez chez nous et
-                profitez de nos avantages sur mesure</h2>
+            <h2 class="text-center" style="color:#026734; background-color :#facbcc;">Nous travaillons avec des clients
+                et partenaires d’industries diverses
+                et offrons toujours des partenariats gagnants</h2>
         </div>
         <br>
         <br>
@@ -76,47 +77,44 @@
             <div class="mx-4 sm-2">
                 <div class="row">
                     <div class="col">
-                        <h3 class="color_green">Avantage 1</h3>
-                        <img class="img-fluid" src="../img/bg1-1.jpg" alt="">
-                        <p>Pour toute acquisition,
-                            nous contrôlons pour vous tous les documents relatifs à l’achat, réalisons des enquêtes
-                            foncières et vous conseillons à partir d’un rapport soutenu par des images.
+
+                        <img class="img-fluid" src="../img/sncp.jpeg" alt="">
+                        <p>Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
+                            ou de partenariat avec la franchise IREA
                         </p>
                     </div>
                     <div class="col">
-                        <h3 class="color_green">Avantage 2</h3>
-                        <img class="img-fluid" src="../img/bg1-2.jpg" alt="">
-                        <p>Lorsque vous construisez en Côte d’Ivoire pendant votre présence à l’étranger, nous suivons
-                            les travaux de construction avec votre entrepreneur depuis la fondation jusqu’à la finition
-                            avec un rapport à chaque étape de réalisation.
+
+                        <img class="img-fluid" src="../img/societegeneral.jpeg" alt="">
+                        <p>Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
+                            ou de partenariat avec la franchise IREA
                         </p>
                     </div>
                     <div class="col">
-                        <h3 class="color_green">Avantage 3</h3>
-                        <img class="img-fluid" src="../img/bg1-3.jpg" alt="">
-                        <p>Vous avez déjà un bien en Côte d’Ivoire dont les titres de propriété sont en cours
-                            d’établissement au niveau administratif, nous vous apportons notre assistance.
+
+                        <img class="img-fluid" src="../img/huawei.jpeg" alt="">
+                        <p>Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
+                            ou de partenariat avec la franchise IREA
                         </p>
                     </div>
                     <div class="col">
-                        <h3 class="color_green">Avantage 4</h3>
-                        <img class="img-fluid" src="../img/bg1-4.jpg" alt="">
-                        <p>Avant tout achat ou de vente de terrains et/ou de maison, maitrisez vos coûts en nous
-                            confiant l’expertise immobilière, le diagnostic immobilier et tout autre évaluation.
+
+                        <img class="img-fluid" src="../img/bouygues.jpeg" alt="">
+                        <p>Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
+                            ou de partenariat avec la franchise IREA
                         </p>
                     </div>
                     <div class="col">
-                        <h3 class="color_green">Avantage 5</h3>
-                        <img class="img-fluid" src="../img/bg1-5.jpg" alt="">
-                        <p>Des professionnels à l’écoute, disposés à vous informer régulièrement sur l’évolution de
-                            votre dossier.
+                        <img class="img-fluid" src="../img/colas.jpeg" alt="">
+                        <p>Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
+                            ou de partenariat avec la franchise IREA
                         </p>
                     </div>
                     <div class="col">
-                        <h3 class="color_green">Avantage 6</h3>
-                        <img class="img-fluid" src="../img/bg1-6.jpg" alt="">
-                        <p>A travers notre réseau, bénéficiez de la saisine de nos partenaires avocats, notaires,
-                            fiscalistes, architectes, agents immobiliers, experts immobiliers…
+
+                        <img class="img-fluid" src="../img/ivotel.jpeg" alt="">
+                        <p>Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
+                            ou de partenariat avec la franchise IREA
 
                         </p>
                     </div>
