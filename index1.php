@@ -80,7 +80,7 @@ EXPERTISE IMMOBILIÈRE, FONCIÈRE & JUDICIAIRE STRATÉGIE IMMOBILIÈRE & FONCIÈ
         <div class="">
             <div class="row mt-4 mb-3">
                 <div class="col text-center"><video class="mx-auto" style="width: 379px !important;" src="animation/anim1.webm" autoplay loop></video></div>
-                <div class="col">
+                <div class="col text-center">
                 <p><strong>Estimation en valeur vénale et locative des biens immobiliers résidentiels dans des contextes d'achat ou de vente, de règlement de succession ou 
                 de donation, de détermination de valeurs hypothécaires.</strong><br>Appartement, immeuble de rapport, maison individuelle ou jumelée, propriété d'exception <br><br>
                 <strong>Estimation en valeur vénale et locative des biens immobiliers professionnels</strong><br>
@@ -93,8 +93,8 @@ EXPERTISE IMMOBILIÈRE, FONCIÈRE & JUDICIAIRE STRATÉGIE IMMOBILIÈRE & FONCIÈ
             </div>
 
             <div class="row mb-3">
-                <div class="col"><video class="mx-auto" style="width: 379px !important;" src="animation/anim2.webm" autoplay loop></video></div>
-                <div class="col"><strong>stratégie foncière en vue de l'organisation d'un projet urbain susceptible de satisfaire les préoccupations 
+                <div class="col text-center"><video class="mx-auto" style="width: 379px !important;" src="animation/anim2.webm" autoplay loop></video></div>
+                <div class="col text-center"><strong>stratégie foncière en vue de l'organisation d'un projet urbain susceptible de satisfaire les préoccupations 
                 environnementales, économiques et sociales :</strong><br><br>
                 Prospection foncière : études intercommunales globales, repérages des gisements fonciers, analyse des terraisn;<br><br>
                 Restitution opérationnelle de la prospection : création d'un plan d'action foncière, annexion des fiches foncières, création 
@@ -102,13 +102,13 @@ EXPERTISE IMMOBILIÈRE, FONCIÈRE & JUDICIAIRE STRATÉGIE IMMOBILIÈRE & FONCIÈ
             </div>
 
             <div class="row mb-3">
-            <div class="col"><video class="mx-auto" style="width: 375px !important;" src="animation/anim3-2.webm" autoplay loop></video></div>
-            <div class="col"><video class="mx-auto" style="width: 375px !important;" src="animation/anim3.webm" autoplay loop></video></div>
+            <div class="col text-center"><video class="mx-auto" style="width: 375px !important;" src="animation/anim3-2.webm" autoplay loop></video></div>
+            <div class="col text-center"><video class="mx-auto" style="width: 375px !important;" src="animation/anim3.webm" autoplay loop></video></div>
             </div>
 
             <div class="row mb-3">
-                <div class="col"><video class="mx-auto" style="width: 379px !important;" src="animation/anim4.webm" autoplay loop></video></div>
-                <div class="col">
+                <div class="col text-center"><video class="mx-auto" style="width: 379px !important;" src="animation/anim4.webm" autoplay loop></video></div>
+                <div class="col text-center">
                     <h1>INGENIERIE FONCIERE</h1>
                     <P>Aide à la négociation ou à la mise en oeuvre des outils de l'action foncière permettant de continuer les réserves foncières 
                     en amont de la phrase de réalisation des projets publics d'aménagement : exercice de droits de préemptions et de procédures 
