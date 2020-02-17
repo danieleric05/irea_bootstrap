@@ -54,8 +54,8 @@
 
     <div role="main">
     
-        <div class="container-fluid banner">
-            <div><img src="img/bg0-1.jpg" alt=""></div>
+        <div class="mt-5">
+            <img src="img/bg2.1.jpg" style="width:100%" alt="">
         </div>
         <section>
             <div>

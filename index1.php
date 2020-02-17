@@ -53,7 +53,7 @@
     </header>
 
     <main role="main">
-        <div class="container-fluid banner">
+        <div class="banner mt-5">
             <div class="row">
                 <div class="col p-0"></div>
                 <div class="col p-0"><img src="img/bg0-1.jpg" class="img-fluid" alt=""></div>
@@ -79,7 +79,7 @@ EXPERTISE IMMOBILIÈRE, FONCIÈRE & JUDICIAIRE STRATÉGIE IMMOBILIÈRE & FONCIÈ
         <section>
         <div class="">
             <div class="row mt-4 mb-3">
-                <div class="col"><video class="mx-auto" style="width: 379px !important;" src="animation/anim1.webm" autoplay loop></video></div>
+                <div class="col text-center"><video class="mx-auto" style="width: 379px !important;" src="animation/anim1.webm" autoplay loop></video></div>
                 <div class="col">
                 <p><strong>Estimation en valeur vénale et locative des biens immobiliers résidentiels dans des contextes d'achat ou de vente, de règlement de succession ou 
                 de donation, de détermination de valeurs hypothécaires.</strong><br>Appartement, immeuble de rapport, maison individuelle ou jumelée, propriété d'exception <br><br>
