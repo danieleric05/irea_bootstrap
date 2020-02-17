@@ -58,12 +58,12 @@
             <img src="img/bg2.1.jpg" style="width:100%" alt="">
         </div>
         <section>
-            <div>
+            <div class="mb-3">
                     <p class="text-center">Nous offrons un package dense et varié pour assurer le suivi de vos projet <br> 
                     depuis leur naissance jusqu'à leur développement</p>
                 </div>
             <div class="container">
-            <h2>CONTENU DE PRESTATION</h2>
+            <h2 class="text-success">CONTENU DE PRESTATION</h2>
             <ul>
                 <li>Vérification De Tout Document Afférent À L'achat De Biens Immobiliers</li>
                 <li>Suivi De Travaux De Cons</li>
@@ -77,7 +77,7 @@
             </div>
         </section>
     </div>
-    <footer>LOL KIS KISS</footer>
+    <footer></footer>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

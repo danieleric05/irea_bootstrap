@@ -95,7 +95,7 @@
 
             <div class="row mb-3 mx-0">
                 <div class="col mx-0"><video class="mx-auto" style="max-width: 360px !important;" src="animation/anim2.webm" autoplay loop></video></div>
-                <div class="col mx-0 align-middle><strong>stratégie foncière en vue de l'organisation d'un projet urbain susceptible de satisfaire les préoccupations 
+                <div class="col mx-0"><strong>stratégie foncière en vue de l'organisation d'un projet urbain susceptible de satisfaire les préoccupations 
                 environnementales, économiques et sociales :</strong><br><br>
                 Prospection foncière : études intercommunales globales, repérages des gisements fonciers, analyse des terraisn;<br><br>
                 Restitution opérationnelle de la prospection : création d'un plan d'action foncière, annexion des fiches foncières, création 
