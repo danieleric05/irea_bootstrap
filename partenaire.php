@@ -74,45 +74,45 @@
         <br>
         <br>
         <section>
-            <div class="mx-4 sm-2">
+            <div class="mx-4 sm-2 text-center">
                 <div class="row">
                     <div class="col">
 
-                        <img class="img-fluid" src="img/sncp.jpeg" alt="">
+                        <img class="img-fluid center-block" src="img/sncp.jpeg" alt="" style="max-width: 1500px">
                         <p>Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
                             ou de partenariat avec la franchise IREA
                         </p>
                     </div>
                     <div class="col">
 
-                        <img class="img-fluid" src="img/societegeneral.jpeg" alt="">
+                        <img class="img-fluid center-block" src="img/societegeneral.jpeg" alt="" style="max-width: 1500px">
                         <p>Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
                             ou de partenariat avec la franchise IREA
                         </p>
                     </div>
                     <div class="col">
 
-                        <img class="img-fluid" src="img/huawei.jpeg" alt="">
+                        <img class="img-fluid center-block" src="img/huawei.jpeg" alt="" style="max-width: 1500px">
                         <p>Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
                             ou de partenariat avec la franchise IREA
                         </p>
                     </div>
                     <div class="col">
 
-                        <img class="img-fluid" src="img/bouygues.jpeg" alt="">
+                        <img class="img-fluid center-block" src="img/bouygues.jpeg" alt="" style="max-width: 1500px">
                         <p>Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
                             ou de partenariat avec la franchise IREA
                         </p>
                     </div>
                     <div class="col">
-                        <img class="img-fluid" src="img/colas.jpeg" alt="">
+                        <img class="img-fluid center-block" src="img/colas.jpeg" alt="" style="max-width: 1500px">
                         <p>Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
                             ou de partenariat avec la franchise IREA
                         </p>
                     </div>
                     <div class="col">
 
-                        <img class="img-fluid" src="img/ivotel.jpeg" alt="">
+                        <img class="img-fluid center-block"  src="img/ivotel.jpeg" alt="" style="max-width: 1500px">
                         <p>Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
                             ou de partenariat avec la franchise IREA
 
