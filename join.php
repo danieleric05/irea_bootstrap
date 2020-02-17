@@ -56,14 +56,14 @@
         </nav>
     </header>
     <section class="container-fluid banner_join">
-        <div class="container">
+        
             <div class="ban">
-                <img src="" alt="bannière de la page">
+                <img class="" src="img/bg1.jpg" alt="bannière de la page">
             </div>
             <div class="inner-banner">
                 <a href="3" class="btn btn-primary">Télécharger notre Brochure</a>
             </div>
-        </div>
+        
     </section>
     <section class="container-fluid avantage">
         <div class="container">
