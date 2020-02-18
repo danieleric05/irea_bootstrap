@@ -64,14 +64,10 @@
             </div>
 
         </section>
-        <div class="container">
-            <h2 class="text-center" style="color:#026734; background-color :#facbcc;">Venez chez nous et
-                profitez de nos avantages sur mesure</h2>
+        <div class="container my-5">
+            <h4 class="text-center color_green"><span style="background-color :#facbcc;">Venez chez nous et
+                profitez de nos avantages sur mesure</span></h4>
         </div>
-        <br>
-        <br>
-        <br>
-        <br>
         <section>
             <div class="mx-4 sm-2">
                 <div class="row">

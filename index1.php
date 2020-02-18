@@ -53,12 +53,12 @@
     </header>
 
     <main role="main">
-        <div class="banner mt-5">
+        <div class="banner" style="margin-top: -30px;">
             <div class="row  mx-0">
                 <div class="col p-0"></div>
                 <div class="col p-0"><img src="img/bg0-1.jpg" class="img-fluid" alt=""></div>
                 <div class="col p-0"></div>
-                <div class="col p-0" style="background-color:white;"></div>
+                <div class="col p-0"><img src="img/bg0-4.jpg" class="img-fluid" alt=""></div>
                 <div class="col p-0"></div>
             </div>
             <div class="row  mx-0">
@@ -66,7 +66,7 @@
                 <div class="col p-0"></div>
                 <div class="col p-0"><img src="img/bg0-3.jpg" class="img-fluid" alt=""></div>
                 <div class="col p-0"></div>
-                <div class="col p-0"><img src="img/bg0-4.jpg" class="img-fluid" alt=""></div>
+                <div class="col p-0" style="background-color:white;"></div>
             </div>
             <div class="row  mx-0">
                 <div class="col p-0"></div>

@@ -59,13 +59,13 @@
         </div>
         <section>
             <div class="container my-5">
-                <h4 class="text-center" style="background-color :#facbcc;">Nous offrons un package dense et varié pour assurer le suivi de vos projet <br> 
-                        <span class="color_green">depuis leur naissance jusqu'à leur développement</span> </h4>
+                <h4 class="text-center"><span style="background-color :#facbcc;"> Nous offrons un package dense et varié pour assurer le suivi de vos projet <br> 
+                        <span class="color_green">depuis leur naissance jusqu'à leur développement</span></span></h4>
             </div>
             <div class="container">
             <h2 class="color_green"><strong>CONTENU DE PRESTATIONS</strong></h2>
             <ul>
-                <li>Vérification De Tout Document Afférent À L'achat De Biens Immobiliers</li>
+                <li><a href="#">Vérification</a> De Tout Document Afférent À L'achat De Biens Immobiliers</li>
                 <li>Suivi De Travaux De Cons</li>
                 <li>Dépôt Et/Ou Suivi De Documents Administratifs Relatifs À Un Bien Acquis</li>
                 <li>Ingénierie Foncière</li>

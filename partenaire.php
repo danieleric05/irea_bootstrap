@@ -64,15 +64,10 @@
             </div>
 
         </section>
-        <div class="container">
-            <h2 class="text-center" style="color:#026734; background-color :#facbcc;">Nous travaillons avec des clients
-                et partenaires d’industries diverses
-                et offrons toujours des partenariats gagnants</h2>
+        <div class="container my-5">
+            <h4 class="text-center"><span style="background-color :#facbcc;">Nous travaillons avec des clients
+                et partenaires d’industries diverses<br>et offrons toujours <span class="color_green">des partenariats gagnants</span></span></h4>
         </div>
-        <br>
-        <br>
-        <br>
-        <br>
         <section>
             <div class="mx-4 sm-2 text-center">
                 <div class="row">
