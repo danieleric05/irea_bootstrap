@@ -15,13 +15,13 @@
 </head>
 
 <body>
-    <section class="container-fluid">
+    <section>
         <div class="container">
-            <div class="block marge">
-                <video class="col-md-12 col-sm-12" src="animation/page2garde.webm" autoplay loop></video>
-                <div class="block">
-                    <a href="index1.php" class="btn btn-primary">Accéder au site</a>
-                </div>
+            <div class="block mt-2">
+            <div class="text-center mb-1">
+                <a href="index1.php" class="btn btn-lg btn-primary">Accéder au site</a>
+            </div>
+                <video class="col-md-12 col-sm-12"  src="animation/page2garde.webm" autoplay loop></video>
             </div>
         </div>
     </section>
