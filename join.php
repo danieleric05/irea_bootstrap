@@ -67,15 +67,9 @@
             </div>
 
         </section>
-<<<<<<< HEAD
         <div class="container my-5">
             <h4 class="text-center color_green"><span style="background-color :#facbcc;">Venez chez nous et
                 profitez de nos avantages sur mesure</span></h4>
-=======
-        <div class="container mb-5">
-            <h2 class="text-center" style="color:#026734; background-color :#facbcc;">Venez chez nous et
-                profitez de nos avantages sur mesure</h2>
->>>>>>> 8b6e89283b167ed3c7acd9abb795fd0c5537e9f5
         </div>
         <section>
             <div class="mx-4 sm-2">
