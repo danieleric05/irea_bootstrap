@@ -59,7 +59,7 @@
         <section class="mt-5">
             <div class="jumbotron jumbotron-fluid banner_join"">
                 <div class="mx-auto" style="width: 300px;">
-                    <button class="btn btn-success btn-lg" href="#" role="button">Télécharger notre brochure</button>
+                    <a class="btn btn-success btn-lg" href="plaquette/plaquette_irea_oct_fr.pdf" download="plaquette_irea_oct.pdf" role="button">Télécharger notre brochure</a>
                 </div>
             </div>
 
