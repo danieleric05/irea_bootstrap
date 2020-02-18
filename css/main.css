@@ -19,9 +19,11 @@
     background-repeat: no-repeat;
     width: 100%;
 }
+
 .marge {
     margin-top: 50px;
 }
+
 .banner_join {
     background: url(../img/bg1.jpg) !important;
     background-size: cover !important;
@@ -29,6 +31,7 @@
     text-align: center !important;
     width: 100% !important;
 }
+
 .banner_partenaire {
     margin-top: 100px !important;
     background: url(../img/bg3.jpg) repeat-x !important;
@@ -37,12 +40,23 @@
     width: 100% !important;
     height: 255px !important;
 }
+
+.banner_contact {
+    background: url(../img/bg4.jpg) !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    text-align: center !important;
+    width: 100% !important;
+}
+
 .topbanner {
     text-align: center;
 }
+
 .top {
     margin-top: 100px;
 }
+
 .color_green {
     color: #036733;
 }
