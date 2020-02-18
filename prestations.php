@@ -58,12 +58,12 @@
             <img src="img/bg2.1.jpg" style="width:100%" alt="">
         </div>
         <section>
-            <div class="container mb-3">
-                <h2 class="text-center" style="color:#026734; background-color :#facbcc;">Nous offrons un package dense et varié pour assurer le suivi de vos projet <br> 
-                        depuis leur naissance jusqu'à leur développement</h2>
+            <div class="container my-5">
+                <h4 class="text-center" style="background-color :#facbcc;">Nous offrons un package dense et varié pour assurer le suivi de vos projet <br> 
+                        <span class="color_green">depuis leur naissance jusqu'à leur développement</span> </h4>
             </div>
             <div class="container">
-            <h2 class="text-success">CONTENU DE PRESTATION</h2>
+            <h2 class="color_green"><strong>CONTENU DE PRESTATIONS</strong></h2>
             <ul>
                 <li>Vérification De Tout Document Afférent À L'achat De Biens Immobiliers</li>
                 <li>Suivi De Travaux De Cons</li>
