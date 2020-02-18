@@ -71,7 +71,7 @@
             <div class="row  mx-0">
                 <div class="col p-0"></div>
                 <div class="col p-0"><img src="img/bg0-2.jpg" class="img-fluid" alt=""></div>
-                <div class="col-5 p-0 text-left pl-3"><p class="color_green">INTERNATIONAL REAL ESTATE AGENCY</p><br><strong>Cabinet d’Expertise International<br>spécialisé dans l’immobilier et le foncier.<br></strong>
+                <div class="col-5 p-0 text-left pl-4"><p class="color_green">INTERNATIONAL REAL ESTATE AGENCY</p><br><strong>Cabinet d’Expertise International<br>spécialisé dans l’immobilier et le foncier.<br></strong>
                 <p class="color_green">EXPERTISE IMMOBILIÈRE, FONCIÈRE & JUDICIAIRE<br>STRATÉGIE IMMOBILIÈRE & FONCIÈRE<br>INGÉNIERIE 
                 FONCIÈRE<br>INGÉNIERIE EN INFRASTRUCTURE & VRD<br>ASSISTANCE & CONSEILS</p></div>
                 <div class="col p-0"><img src="" class="img-fluid" alt=""></div>
