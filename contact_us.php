@@ -76,48 +76,61 @@
 
 
             <div class="row">
-
-                <!--Grid column-->
-                <div class="col-lg-5 mb-4">
-                    <div class="ml-2">
-                        <div class="form-row">
-                            <div class="form-group col-md-6">
-                                <label for="">Nom</label>
-                                <input type="text" class="form-control" id="">
+                <form action="" method="POST">
+                    <div class="col-lg-5 mb-4">
+                        <div class="ml-2">
+                            <div class="form-row">
+                                <div class="form-group col-md-6">
+                                    <label for="">Nom</label>
+                                    <input type="text" class="form-control" name="nom" id="">
+                                </div>
+                                <div class="form-group col-md-6">
+                                    <label for="">Prénoms</label>
+                                    <input type="text" name="prenoms" class="form-control" id="">
+                                </div>
                             </div>
-                            <div class="form-group col-md-6">
-                                <label for="">Prénoms</label>
-                                <input type="text" class="form-control" id="">
+
+                            <div class="md-form">
+
+                                <input type="email" id="" name="email" class="form-control">
+                                <label for="form-Subject">Email</label>
+                            </div>
+
+                            <div class="md-form">
+
+                                <textarea id="form-text" name="message" class="form-control md-textarea" rows="3"
+                                    style="height: 400px"></textarea>
+                                <label for="form-text">Entrez votre message</label>
+                            </div>
+
+                            <div class="text-center mt-4">
+                                <button class="btn btn-success">Envoyer</button>
                             </div>
                         </div>
+                        <!--Body-->
+                        <?php
+                            if (isset($_POST) && !empty($_POST['name']) && !empty($_POST['prenoms']) && !empty($_POST['message']) ){
+                                extract($_POST);
+                                $destinataire ='danielaboussou@daertech.com';
+                                $expediteur = $name.' ' .$prenoms. ' <'.$email.'>';
+                                $mail=mail($destinataire, $message,
+                                $expediteur, ' : Patrimgets.com : Mail de test');
+                                if ($_mail) echo 'Email envpyé avec success !!'; else echo 'Echec denvoie d email !!';
+                            } else echo "Formulaire non soumis ou des champs sont vides"
+                        ?>
 
-                        <div class="md-form">
 
-                            <input type="email" id="" class="form-control">
-                            <label for="form-Subject">Email</label>
-                        </div>
-
-                        <div class="md-form">
-
-                            <textarea id="form-text" class="form-control md-textarea" rows="3" style="height: 400px"></textarea>
-                            <label for="form-text">Entrez votre message</label>
-                        </div>
-
-                        <div class="text-center mt-4">
-                            <button class="btn btn-success">Envoyer</button>
-                        </div>
                     </div>
-                    <!--Body-->
+                </form>
+                <!--Grid column-->
 
-
-                </div>
                 <!--Grid column-->
 
                 <!--Grid column-->
                 <div class="col-lg-7">
 
                     <div class="mr-2">
-                        <div id="map-container-google-11" class="z-depth-1-half map-container-6" style="height: 400px">
+                        <div id="map-container-google-11" class="z-depth-1-half map-container-6" style="height: 200px">
                             <iframe
                                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127118.28783248307!2d-4.049705027702217!3d5.348617046241807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfc1ea5311959121%3A0x3fe70ddce19221a6!2sAbidjan!5e0!3m2!1sfr!2sci!4v1582037536823!5m2!1sfr!2sci"
                                 frameborder="0" style="border:0;" allowfullscreen=""></iframe>
@@ -134,13 +147,13 @@
 
                             <div class="col-md-4">
                                 <a class="btn-floating blue accent-1"><i class="fas fa-phone"></i></a>
-                                <p>+225 00 00 00 00 </p>
-                                
+                                <p>+225 20 00 05 63</p>
+
                             </div>
 
                             <div class="col-md-4">
                                 <a class="btn-floating blue accent-1"><i class="fas fa-envelope"></i></a>
-                                <p>info@ireaconseils.com</p>                            
+                                <p>infos@ireaconseils.com</p>
                             </div>
                         </div>
                     </div>
