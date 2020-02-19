@@ -18,14 +18,14 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="navbar-nav d-lg-none d-xl-none d-block d-md-block d-sm-block">
-                <a class="navbar-brand" href="#">
+                <a class="navbar-brand" href="index.php">
                     <img src="img/logo-irea.jpg" width="30" height="30" alt="">
                 </a>
             </div>
             <div class="collapse navbar-collapse justify-content-md-center" id="navbarsExample08">
                 <ul class="navbar-nav">
                 <li class="nav-item d-none d-sm-none d-md-none d-lg-block d-xl-block">
-                <a class="navbar-brand py-0" href="#">
+                <a class="navbar-brand py-0" href="index.php">
                     <img src="img/logo-irea.jpg" width="86" height="42" alt="logo irea">
                 </a>
                 </li>
