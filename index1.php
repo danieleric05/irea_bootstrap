@@ -54,34 +54,39 @@
 
     <main role="main">
         <div class="banner" style="margin-top: -30px;">
-            <div class="row  mx-0">
+            <div class="row mx-0">
                 <div class="col p-0"></div>
                 <div class="col p-0"><img src="img/bg0-1.jpg" class="img-fluid" alt=""></div>
                 <div class="col p-0"></div>
                 <div class="col p-0"><img src="img/bg0-4.jpg" class="img-fluid" alt=""></div>
                 <div class="col p-0"></div>
             </div>
-            <div class="row  mx-0">
+            <div class="row mx-0">
                 <div class="col p-0"></div>
                 <div class="col p-0"></div>
                 <div class="col p-0"><img src="img/bg0-3.jpg" class="img-fluid" alt=""></div>
                 <div class="col p-0"></div>
                 <div class="col p-0" style="background-color:white;"></div>
             </div>
-            <div class="row  mx-0">
+            <div class="row mx-0">
                 <div class="col p-0"></div>
                 <div class="col p-0"><img src="img/bg0-2.jpg" class="img-fluid" alt=""></div>
-                <div class="col-5 p-0 text-left pl-4"><p class="color_green">INTERNATIONAL REAL ESTATE AGENCY</p><br><strong>Cabinet d’Expertise International<br>spécialisé dans l’immobilier et le foncier.<br></strong>
+                <div class="col-5 p-0 text-left pl-4 d-none d-sm-block"><p class="color_green">INTERNATIONAL REAL ESTATE AGENCY</p><br><strong>Cabinet d’Expertise International<br>spécialisé dans l’immobilier et le foncier.<br></strong>
                 <p class="color_green">EXPERTISE IMMOBILIÈRE, FONCIÈRE & JUDICIAIRE<br>STRATÉGIE IMMOBILIÈRE & FONCIÈRE<br>INGÉNIERIE 
                 FONCIÈRE<br>INGÉNIERIE EN INFRASTRUCTURE & VRD<br>ASSISTANCE & CONSEILS</p></div>
                 <div class="col p-0"><img src="" class="img-fluid" alt=""></div>
             </div>
+            <div class="text-left px-2 d-block d-sm-none"><p class="color_green">INTERNATIONAL REAL ESTATE AGENCY</p><br><strong>Cabinet d’Expertise International<br>spécialisé dans l’immobilier et le foncier.<br></strong>
+                <p class="color_green">EXPERTISE IMMOBILIÈRE, FONCIÈRE & JUDICIAIRE<br>STRATÉGIE IMMOBILIÈRE & FONCIÈRE<br>INGÉNIERIE 
+                FONCIÈRE<br>INGÉNIERIE EN INFRASTRUCTURE & VRD<br>ASSISTANCE & CONSEILS</p></div>
+                <div class="col p-0"><img src="" class="img-fluid" alt=""></div>
         </div>
+
         <section>
         <div class="text-center">
             <div class="row mt-3 mb-3 mx-0">
                 <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xs-6 align-self-center mx-0"><video class="img-fluid" src="animation/anim1.webm" autoplay loop></video></div>
-                <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xs-6 align-self-center text-left mx-0">
+                <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xs-6 align-self-center text-left mx-0 pr-5">
                 <p><strong>Estimation en valeur vénale et locative des biens immobiliers résidentiels dans des contextes d'achat ou de vente, de règlement de succession ou 
                 de donation, de détermination de valeurs hypothécaires.</strong><br>Appartement, immeuble de rapport, maison individuelle ou jumelée, propriété d'exception <br><br>
                 <strong>Estimation en valeur vénale et locative des biens immobiliers professionnels</strong><br>
@@ -95,7 +100,7 @@
 
             <div class="row mb-3 mx-0">
                 <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xs-6 align-self-center mx-0"><video class="img-fluid" src="animation/anim2.webm" autoplay loop></video></div>
-                <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xs-6 align-self-center text-left mx-0"><strong>stratégie foncière en vue de l'organisation d'un projet urbain susceptible de satisfaire les préoccupations 
+                <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xs-6 align-self-center text-left mx-0 pr-5"><strong>stratégie foncière en vue de l'organisation d'un projet urbain susceptible de satisfaire les préoccupations 
                 environnementales, économiques et sociales :</strong><br><br>
                 Prospection foncière : études intercommunales globales, repérages des gisements fonciers, analyse des terraisn;<br><br>
                 Restitution opérationnelle de la prospection : création d'un plan d'action foncière, annexion des fiches foncières, création 
@@ -109,13 +114,13 @@
 
             <div class="row mb-3 mx-0">
                 <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xs-6 align-self-center mx-0"><video class="img-fluid" src="animation/anim4.webm" autoplay loop></video></div>
-                <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xs-6 align-self-center text-left mx-0">
-                    <h1>INGENIERIE FONCIERE</h1>
-                    <P>Aide à la négociation ou à la mise en oeuvre des outils de l'action foncière permettant de continuer les réserves foncières 
+                <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xs-6 align-self-center text-left mx-0 text-white">
+                    <div class="px-3 py-5" style="background: #036733;"><h1><strong>INGENIERIE FONCIERE</strong></h1>
+                    <P class="">Aide à la négociation ou à la mise en oeuvre des outils de l'action foncière permettant de continuer les réserves foncières 
                     en amont de la phrase de réalisation des projets publics d'aménagement : exercice de droits de préemptions et de procédures 
                     d'expropriation;<br>
                     Réalisation de divers types d'opérations d'aménagement : restructuration urbaine, restauration urbaine, réhabilitation urbaine, 
-                    renouvellement urbain, amélioration urbaine.</P>
+                    renouvellement urbain, amélioration urbaine.</P></div>
                 </div>
             </div>
         </div>
