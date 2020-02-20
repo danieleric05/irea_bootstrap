@@ -87,14 +87,14 @@
                     </div>
                     <div class="col">
 
-                        <img class="img-fluid center-block" src="img/huawei.jpg" alt="">
+                        <img class="img-fluid center-block" src="img/dgie.jpg" alt="">
                         <p class="pt-2">Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
                             ou de partenariat avec la franchise IREA
                         </p>
                     </div>
                     <div class="col">
 
-                        <img class="img-fluid center-block" src="img/bouygues.jpg" alt="">
+                        <img class="img-fluid center-block" src="img/MCLU.jpg" alt="">
                         <p class="pt-2">Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
                             ou de partenariat avec la franchise IREA
                         </p>
@@ -105,14 +105,14 @@
                             ou de partenariat avec la franchise IREA
                         </p>
                     </div>
-                    <div class="col">
+                    <!--<div class="col">
 
                         <img class="img-fluid center-block"  src="img/ivotel.jpg" alt="">
                         <p class="pt-2">Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
                             ou de partenariat avec la franchise IREA
 
                         </p>
-                    </div>
+                    </div>-->
                 </div>
             </div>
         </section>
