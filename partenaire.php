@@ -73,14 +73,14 @@
                 <div class="row">
                     <div class="col">
 
-                        <img class="img-fluid center-block" src="img/sncp.jpg" alt="">
+                        <img class="img-fluid center-block" src="img/cne.jpg" alt="">
                         <p class="pt-2">Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
                             ou de partenariat avec la franchise IREA
                         </p>
                     </div>
                     <div class="col">
 
-                        <img class="img-fluid center-block" src="img/societegeneral.jpg" alt="">
+                        <img class="img-fluid center-block" src="img/experts.jpg" alt="">
                         <p class="pt-2">Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
                             ou de partenariat avec la franchise IREA
                         </p>
@@ -99,13 +99,13 @@
                             ou de partenariat avec la franchise IREA
                         </p>
                     </div>
-                    <div class="col">
+                    <!--<div class="col">
                         <img class="img-fluid center-block" src="img/colas.jpg" alt="">
                         <p class="pt-2">Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
                             ou de partenariat avec la franchise IREA
                         </p>
                     </div>
-                    <!--<div class="col">
+                    <div class="col">
 
                         <img class="img-fluid center-block"  src="img/ivotel.jpg" alt="">
                         <p class="pt-2">Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
