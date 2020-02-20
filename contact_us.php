@@ -103,7 +103,7 @@
 
                         <div class="md-form">
 
-                            <textarea id="form-text" class="form-control md-textarea" rows="3" style="height: 400px"></textarea>
+                            <textarea id="form-text" class="form-control md-textarea" rows="3" style="height: 245px"></textarea>
                             <label for="form-text">Entrez votre message</label>
                         </div>
 
