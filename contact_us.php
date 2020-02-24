@@ -23,7 +23,7 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="navbar-nav d-lg-none d-xl-none d-block d-md-block d-sm-block">
-                <a class="navbar-brand" href="#">
+                <a class="navbar-brand" href="index.php">
                     <img src="img/logo-irea.jpg" width="30" height="30" alt="">
                 </a>
             </div>
@@ -141,7 +141,7 @@
 
                                 <div class="col-md-4">
                                     <a class="btn-floating blue accent-1"><i class="fa fa-phone"></i></a>
-                                    <p>+225 20 00 05 63 </p>
+                                    <p>+225 20 00 05 63</p>
                                     <a href="#" class="fa fa-facebook"></a>
                                     <a href="#" class="fa fa-youtube"></a>
                                     <a href="#" class="fa fa-linkedin"></a>
