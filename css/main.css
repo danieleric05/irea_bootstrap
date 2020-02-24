@@ -12,6 +12,10 @@
     src: 'fonts/NixieOne.ttf';
 }
 
+body {
+    font-size: 1.5rem !important;
+}
+
 .banner {
     background: url(../img/bg-0.jpg);
     background-repeat: no-repeat;
@@ -75,7 +79,28 @@
     width: 100%;
     position: absolute;
 }
+@media only screen and (min-width: 1024px) {
+    .upfirst{
+        margin-top: -30px;
+    }
+}
 
+@media only screen and (max-width: 1024px) and (min-width: 565px) {
+    .upfirst{
+        margin-top: 25px;
+    }
+}
+
+@media only screen and (max-width: 565px) and (min-width: 360px) {
+    .upfirst{
+        margin-top: 35px;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    .upfirst{
+        margin-top: 40px;
+    }
 
 /* Style all font awesome icons */
 
