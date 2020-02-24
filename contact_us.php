@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="en">
 
@@ -11,6 +10,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <title>IREA</title>
 </head>
@@ -64,8 +64,9 @@
         </div>
         <section>
             <div class="container my-5">
-                <h4 class="text-center"><span style="background-color :#facbcc;">Envoyez-nous un message ou retrouver-nous
-                    directement sur la carte.</span></h4>
+                <h4 class="text-center"><span style="background-color :#facbcc;">Envoyez-nous un message ou
+                        retrouver-nous
+                        directement sur la carte.</span></h4>
             </div>
         </section>
         <!--Section: Contact v.1-->
@@ -73,87 +74,91 @@
 
             <!--Section heading-->
             <div class="container">
-            <h2 class="section-heading h1 pt-4 color_green">NOUS CONTACTER</h2>
+                <h2 class="section-heading h1 pt-4 color_green">NOUS CONTACTER</h2>
             </div>
             <!--Section description-->
 
 
             <div class="container">
-            <div class="row">
+                <div class="row">
 
-                <!--Grid column-->
-                <div class="col-lg-5 mb-4">
-                    <div class="">
-                        <div class="form-row">
-                            <div class="form-group col-md-6">
-                                <label for="">Nom</label>
-                                <input type="text" class="form-control" id="">
+                    <!--Grid column-->
+                    <div class="col-lg-5 mb-4">
+                        <div class="">
+                            <div class="form-row">
+                                <div class="form-group col-md-6">
+                                    <label for="">Nom</label>
+                                    <input type="text" class="form-control" id="">
+                                </div>
+                                <div class="form-group col-md-6">
+                                    <label for="">Prénoms</label>
+                                    <input type="text" class="form-control" id="">
+                                </div>
                             </div>
-                            <div class="form-group col-md-6">
-                                <label for="">Prénoms</label>
-                                <input type="text" class="form-control" id="">
+
+                            <div class="md-form">
+
+                                <input type="email" id="" class="form-control">
+                                <label for="form-Subject">Email</label>
+                            </div>
+
+                            <div class="md-form">
+
+                                <textarea id="form-text" class="form-control md-textarea" rows="3"
+                                    style="height: 400px"></textarea>
+                                <label for="form-text">Entrez votre message</label>
+                            </div>
+
+                            <div class="text-center mt-4">
+                                <button class="btn btn-success">Envoyer</button>
                             </div>
                         </div>
+                        <!--Body-->
 
-                        <div class="md-form">
 
-                            <input type="email" id="" class="form-control">
-                            <label for="form-Subject">Email</label>
-                        </div>
-
-                        <div class="md-form">
-
-                            <textarea id="form-text" class="form-control md-textarea" rows="3" style="height: 245px"></textarea>
-                            <label for="form-text">Entrez votre message</label>
-                        </div>
-
-                        <div class="text-center mt-4">
-                            <button class="btn btn-success">Envoyer</button>
-                        </div>
                     </div>
-                    <!--Body-->
+                    <!--Grid column-->
 
+                    <!--Grid column-->
+                    <div class="col-lg-7">
+
+                        <div class="">
+                            <div id="map-container-google-11" class="z-depth-1-half map-container-6"
+                                style="height: 400px">
+                                <iframe
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127118.28783248307!2d-4.049705027702217!3d5.348617046241807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfc1ea5311959121%3A0x3fe70ddce19221a6!2sAbidjan!5e0!3m2!1sfr!2sci!4v1582037536823!5m2!1sfr!2sci"
+                                    frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                            </div>
+
+                            <br>
+                            <!--Buttons-->
+                            <div class="row text-center">
+                                <div class="col-md-4">
+                                    <a class="btn-floating blue accent-1"><i class="fa fa-map-marker"></i></a>
+                                    <p>Riviera palmeraie</p>
+                                    <p>Côte d'Ivoire</p>
+                                </div>
+
+                                <div class="col-md-4">
+                                    <a class="btn-floating blue accent-1"><i class="fa fa-phone"></i></a>
+                                    <p>+225 20 00 05 63 </p>
+                                    <a href="#" class="fa fa-facebook"></a>
+                                    <a href="#" class="fa fa-youtube"></a>
+                                    <a href="#" class="fa fa-linkedin"></a>
+                                </div>
+
+                                <div class="col-md-4">
+                                    <a class="btn-floating blue accent-1"><i class="fa fa-envelope"></i></a>
+                                    <p>infos@ireaconseils.com</p>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+                    <!--Grid column-->
 
                 </div>
-                <!--Grid column-->
-
-                <!--Grid column-->
-                <div class="col-lg-7">
-
-                    <div class="">
-                        <div id="map-container-google-11" class="z-depth-1-half map-container-6" style="height: 400px">
-                            <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127118.28783248307!2d-4.049705027702217!3d5.348617046241807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfc1ea5311959121%3A0x3fe70ddce19221a6!2sAbidjan!5e0!3m2!1sfr!2sci!4v1582037536823!5m2!1sfr!2sci"
-                                frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-                        </div>
-
-                        <br>
-                        <!--Buttons-->
-                        <div class="row text-center">
-                            <div class="col-md-4">
-                                <a class="btn-floating blue accent-1"><i class="fas fa-map-marker-alt"></i></a>
-                                <p>Abidjan - Cocody</p>
-                                <p>Côte d'Ivoire</p>
-                            </div>
-
-                            <div class="col-md-4">
-                                <a class="btn-floating blue accent-1"><i class="fas fa-phone"></i></a>
-                                <p>+225 00 00 00 00 </p>
-                                
-                            </div>
-
-                            <div class="col-md-4">
-                                <a class="btn-floating blue accent-1"><i class="fas fa-envelope"></i></a>
-                                <p>info@ireaconseils.com</p>                            
-                            </div>
-                        </div>
-                    </div>
-
-
-                </div>
-                <!--Grid column-->
-
-            </div>
             </div>
 
         </section>
