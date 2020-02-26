@@ -87,7 +87,7 @@
         <section>
         <div class="text-center">
             <div class="row mt-3 mb-3 mx-0">
-                <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xs-6 align-self-center mx-0 p-5"><video class="img-fluid" src="animation/anim.webm" autoplay loop></video></div>
+                <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xs-6 align-self-center mx-0 p-2"><video class="img-fluid" src="animation/anim1.webm" autoplay loop></video></div>
                 <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xs-6 align-self-center text-left mx-0 pr-5">
                 <p><strong>Estimation en valeur vénale et locative des biens immobiliers résidentiels dans des contextes d'achat ou de vente, de règlement de succession ou 
                 de donation, de détermination de valeurs hypothécaires.</strong><br>Appartement, immeuble de rapport, maison individuelle ou jumelée, propriété d'exception <br><br>
@@ -111,13 +111,13 @@
 
             <div class="row mb-3 mx-0">
             <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xs-6 align-self-center mx-0 p-5"><video class="img-fluid" style="" src="animation/anim3-2.webm" autoplay loop></video></div>
-            <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xs-6 align-self-center text-left mx-0"><video class="img-fluid" src="animation/anim3.webm" autoplay loop></video></div>
+            <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xs-6 align-self-center mx-0"><video class="img-fluid" src="animation/anim3.webm" autoplay loop></video></div>
             </div>
 
             <div class="row mb-3 mx-0">
                 <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xs-6 align-self-center mx-0 p-5"><video class="img-fluid" src="animation/anim4.webm" autoplay loop></video></div>
                 <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xs-6 align-self-center text-left mx-0 text-white">
-                    <div class="pl-5 pr-3 py-5 mh-100" style="background: #036733;max-width:1000px !important;"><h1><strong>INGENIERIE FONCIERE</strong></h1>
+                    <div class="pl-5 pr-3 py-5" style="background: #036733;max-width:1000px !important;"><h1><strong>INGENIERIE FONCIERE</strong></h1>
                     <P class="">Aide à la négociation ou à la mise en oeuvre des outils de l'action foncière permettant de continuer les réserves foncières 
                     en amont de la phrase de réalisation des projets publics d'aménagement : exercice de droits de préemptions et de procédures 
                     d'expropriation;<br>

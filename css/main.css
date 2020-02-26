@@ -12,10 +12,6 @@
     src: 'fonts/NixieOne.ttf';
 }
 
-body {
-    font-size: 1.5rem !important;
-}
-
 .banner {
     background: url(../img/bg-0.jpg);
     background-repeat: no-repeat;
