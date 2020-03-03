@@ -125,10 +125,7 @@
                         <div class="">
                             <div id="map-container-google-11" class="z-depth-1-half map-container-6"
                                 style="height: 400px">
-                                <iframe
-                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127118.28783248307!2d-4.049705027702217!3d5.348617046241807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfc1ea5311959121%3A0x3fe70ddce19221a6!2sAbidjan!5e0!3m2!1sfr!2sci!4v1582037536823!5m2!1sfr!2sci"
-                                    frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-                            </div>
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3972.165233057186!2d-3.9836666852348337!3d5.391773796089302!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6014a4e9f92bdb71!2sINTERNATIONAL%20REAL%20ESTATE%20AGENCY%20(I.R.E.A)!5e0!3m2!1sfr!2sci!4v1583176150375!5m2!1sfr!2sci" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe></div>
 
                             <br>
                             <!--Buttons-->
