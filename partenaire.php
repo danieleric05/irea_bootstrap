@@ -78,22 +78,25 @@
                     <div class="col">
 
                         <img class="img-fluid center-block" src="img/cne.jpg" alt="">
-                        <p class="pt-2 text-left">Est le premier réseau français d’expert immobilier en valeur vénale. Il est
+                        <p class="pt-2 text-left">Est le premier réseau français d’expert immobilier en valeur vénale.
+                            Il est
                             aussi un centre de formation reconnu, qui a su fédérer les experts immobiliers autour de
                             valeurs déontologiques communes et d’un savoir-faire qui lui est propre.
                         </p>
                     </div>
-                    <!--<div class="col">
+                    <div class="col">
 
-                        <img class="img-fluid center-block" src="img/experts.jpg" alt="">
-                        <p class="pt-2 text-left">Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
-                            ou de partenariat avec la franchise IREA
+                        <img class="img-fluid center-block" src="img/ordredesexperts.png" alt="">
+                        <p class="pt-2 text-left">Est une institution scientifique à finalité professionnelle ayant pour
+                            objectif de former des Experts Internationaux capable d’intervenir dans tous les pays
+                            affiliés à l’O.N. U et dans toutes les situations.
                         </p>
-                    </div>-->
+                    </div>
                     <div class="col">
 
                         <img class="img-fluid center-block" src="img/dgie.jpg" alt="">
-                        <p class="pt-2 text-left">Est une direction du Ministère de l’Intégration Africaine et des Ivoiriens de
+                        <p class="pt-2 text-left">Est une direction du Ministère de l’Intégration Africaine et des
+                            Ivoiriens de
                             l’Extérieur, qui a pour mission principale de mettre en œuvre la politique gouvernementale
                             relative aux ivoiriens vivant à l’extérieur. Ainsi, elle procède à :
                             <ul class="text-left">
