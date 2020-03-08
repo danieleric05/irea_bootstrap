@@ -139,7 +139,7 @@
                                 <div class="col-md-4">
                                     <a class="btn-floating blue accent-1"><i class="fa fa-phone"></i></a>
                                     <p>+225 20 00 05 63</p>
-                                    <a href="#" class="fa fa-facebook"></a>
+                                    <a href="https://www.facebook.com/International-Real-Estate-Agency-IREA-105740061046856" class="fa fa-facebook"></a>
                                     <a href="#" class="fa fa-youtube"></a>
                                     <a href="#" class="fa fa-linkedin"></a>
                                 </div>
