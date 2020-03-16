@@ -37,16 +37,19 @@
                         <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="index.php">Accueil</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="join.php">Rejoignez-nous</a>
+                        <a class="nav-link btn btn-outline-secondary mx-2" role="button"
+                            href="join.php">Rejoignez-nous</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="#">Partenaires</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="prestations.php">Prestations</a>
+                        <a class="nav-link btn btn-outline-secondary mx-2" role="button"
+                            href="prestations.php">Prestations</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="contact_us.php">Contactez-nous</a>
+                        <a class="nav-link btn btn-outline-secondary mx-2" role="button"
+                            href="contact_us.php">Contactez-nous</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="#">Connexion</a>
@@ -58,7 +61,7 @@
     <main role="main">
         <section class="mt-5">
             <div class="jumbotron jumbotron-fluid banner_partenaire">
-                <div class="mx-auto" style="width:300px";>
+                <div class="mx-auto" style="width:300px" ;>
                     <button class="btn btn-success btn-lg" href="#" role="button">Tous nos partenaires ici</button>
                 </div>
             </div>
@@ -66,7 +69,8 @@
         </section>
         <div class="container my-5">
             <h4 class="text-center"><span style="background-color :#facbcc;">Nous travaillons avec des clients
-                et partenaires d’industries diverses<br>et offrons toujours <span class="color_green">des partenariats gagnants</span></span></h4>
+                    et partenaires d’industries diverses<br>et offrons toujours <span class="color_green">des
+                        partenariats gagnants</span></span></h4>
         </div>
         <section>
             <div class="mx-4 sm-2 text-center">
@@ -74,41 +78,61 @@
                     <div class="col">
 
                         <img class="img-fluid center-block" src="img/cne.jpg" alt="">
-                        <p class="pt-2">Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
-                            ou de partenariat avec la franchise IREA
+                        <p class="pt-2 text-left">Est le premier réseau français d’expert immobilier en valeur vénale.
+                            Il est
+                            aussi un centre de formation reconnu, qui a su fédérer les experts immobiliers autour de
+                            valeurs déontologiques communes et d’un savoir-faire qui lui est propre.
                         </p>
                     </div>
                     <div class="col">
 
-                        <img class="img-fluid center-block" src="img/experts.jpg" alt="">
-                        <p class="pt-2">Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
-                            ou de partenariat avec la franchise IREA
+                        <img class="img-fluid center-block" src="img/ordredesexperts.png" alt="">
+                        <p class="pt-2 text-left">Est une institution scientifique à finalité professionnelle ayant pour
+                            objectif de former des Experts Internationaux capable d’intervenir dans tous les pays
+                            affiliés à l’O.N. U et dans toutes les situations.
                         </p>
                     </div>
                     <div class="col">
 
                         <img class="img-fluid center-block" src="img/dgie.jpg" alt="">
-                        <p class="pt-2">Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
-                            ou de partenariat avec la franchise IREA
+                        <p class="pt-2 text-left">Est une direction du Ministère de l’Intégration Africaine et des
+                            Ivoiriens de
+                            l’Extérieur, qui a pour mission principale de mettre en œuvre la politique gouvernementale
+                            relative aux ivoiriens vivant à l’extérieur. Ainsi, elle procède à :
+                            <ul class="text-left">
+                                <li>la mise en œuvre des actions relatives à leur retour et à la réinstallation</li>
+                                <li>la facilitation de leur accès au logement en Côte d’Ivoire</li>
+                                <li>le soutien à la réalisation de projets d’investissement des ivoiriens de l’extérieur
+                                    en Côte
+                                    d’Ivoire.</li>
+                            </ul>
                         </p>
                     </div>
                     <div class="col">
 
                         <img class="img-fluid center-block" src="img/MCLU.jpg" alt="">
-                        <p class="pt-2">Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
-                            ou de partenariat avec la franchise IREA
+                        <p class="pt-2 text-left">Notre Ministère de tutelle, a pour mission de :
+                            <ul class="text-left">
+                                <li>Définir et faire appliquer la politique nationale en matière d’urbanisme, de
+                                    foncier, d’habitat et d’architecture ;</li>
+                                <li>Gérer le domaine urbain ;</li>
+                                <li>Gérer le foncier urbain</li>
+                                <li>Promouvoir l’accession à la propriété immobilière</li>
+                                <li>Elaborer et mettre en œuvre un cadre institutionnel, réglementaire et financier
+                                    permettant l’émergence d’un véritable marché du logement.</li>
+                            </ul>
                         </p>
                     </div>
                     <!--<div class="col">
                         <img class="img-fluid center-block" src="img/colas.jpg" alt="">
-                        <p class="pt-2">Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
+                        <p class="pt-2 text-left">Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
                             ou de partenariat avec la franchise IREA
                         </p>
                     </div>
                     <div class="col">
 
                         <img class="img-fluid center-block"  src="img/ivotel.jpg" alt="">
-                        <p class="pt-2">Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
+                        <p class="pt-2 text-left">Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
                             ou de partenariat avec la franchise IREA
 
                         </p>
