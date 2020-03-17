@@ -72,7 +72,7 @@
                     <div class="panel-heading">
                         <div class="panel-title">Sign Up</div>
                         <div style="float:right; font-size: 85%; position: relative; top:-10px"><a id="signinlink"
-                                href="/accounts/login/">Sign In</a></div>
+                                href="#">Sign In</a></div>
                     </div>
                     <div class="panel-body">
                         <form method="post" action=".">
