@@ -70,10 +70,8 @@
                 class="mainbox col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
                 <div class="panel panel-info">
                     <div class="panel-heading">
-                        <div class="panel-title">Sign Up</div>
-                        <div style="float:right; font-size: 85%; position: relative; top:-10px"><a id="signinlink"
-                                href="#">Sign In</a></div>
-                    </div>
+                        <div class="panel-title">Devis</div>
+                        
                     <div class="panel-body">
                         <form method="post" action=".">
                             <input type='hidden' name='csrfmiddlewaretoken' value='XFe2rTYl9WOpV8U6X5CfbIuOZOELJ97S' />
@@ -105,7 +103,7 @@
                                 </div>
                                 <div id="div_id_username" class="form-group required">
                                     <label for="id_username" class="control-label col-md-4  requiredField">
-                                        Username<span class="asteriskField">*</span> </label>
+                                        Nom d'utilisateur<span class="asteriskField">*</span> </label>
                                     <div class="controls col-md-8 ">
                                         <input class="input-md  textinput textInput form-control" id="id_username"
                                             maxlength="30" name="username" placeholder="Choose your username"
@@ -123,7 +121,7 @@
                                 </div>
                                 <div id="div_id_password1" class="form-group required">
                                     <label for="id_password1"
-                                        class="control-label col-md-4  requiredField">Password<span
+                                        class="control-label col-md-4  requiredField">Mot de<span
                                             class="asteriskField">*</span> </label>
                                     <div class="controls col-md-8 ">
                                         <input class="input-md textinput textInput form-control" id="id_password1"
@@ -154,14 +152,13 @@
                                             class="asteriskField">*</span> </label>
                                     <div class="controls col-md-8 " style="margin-bottom: 10px">
                                         <label class="radio-inline"> <input type="radio" name="gender" id="id_gender_1"
-                                                value="M" style="margin-bottom: 10px">Male</label>
+                                                value="M" style="margin-bottom: 10px">Homme</label>
                                         <label class="radio-inline"> <input type="radio" name="gender" id="id_gender_2"
-                                                value="F" style="margin-bottom: 10px">Female </label>
+                                                value="F" style="margin-bottom: 10px">Femme </label>
                                     </div>
                                 </div>
                                 <div id="div_id_company" class="form-group required">
-                                    <label for="id_company" class="control-label col-md-4  requiredField"> company
-                                        name<span class="asteriskField">*</span> </label>
+                                    <label for="id_company" class="control-label col-md-4  requiredField">Nom de la compagnie<span class="asteriskField">*</span> </label>
                                     <div class="controls col-md-8 ">
                                         <input class="input-md textinput textInput form-control" id="id_company"
                                             name="company" placeholder="your company name" style="margin-bottom: 10px"
@@ -170,7 +167,7 @@
                                 </div>
                                 <div id="div_id_catagory" class="form-group required">
                                     <label for="id_catagory" class="control-label col-md-4  requiredField">
-                                        catagory<span class="asteriskField">*</span> </label>
+                                        Catagorie<span class="asteriskField">*</span> </label>
                                     <div class="controls col-md-8 ">
                                         <input class="input-md textinput textInput form-control" id="id_catagory"
                                             name="catagory" placeholder="skills catagory" style="margin-bottom: 10px"
@@ -178,8 +175,7 @@
                                     </div>
                                 </div>
                                 <div id="div_id_number" class="form-group required">
-                                    <label for="id_number" class="control-label col-md-4  requiredField"> contact
-                                        number<span class="asteriskField">*</span> </label>
+                                    <label for="id_number" class="control-label col-md-4  requiredField"> numéro<span class="asteriskField">*</span> </label>
                                     <div class="controls col-md-8 ">
                                         <input class="input-md textinput textInput form-control" id="id_number"
                                             name="number" placeholder="provide your number" style="margin-bottom: 10px"
@@ -187,8 +183,8 @@
                                     </div>
                                 </div>
                                 <div id="div_id_location" class="form-group required">
-                                    <label for="id_location" class="control-label col-md-4  requiredField"> Your
-                                        Location<span class="asteriskField">*</span> </label>
+                                    <label for="id_location" class="control-label col-md-4  requiredField"> votre
+                                        Localisation<span class="asteriskField">*</span> </label>
                                     <div class="controls col-md-8 ">
                                         <input class="input-md textinput textInput form-control" id="id_location"
                                             name="location" placeholder="Your Pincode and City"
@@ -201,7 +197,7 @@
                                             <label for="id_terms" class=" requiredField">
                                                 <input class="input-ms checkboxinput" id="id_terms" name="terms"
                                                     style="margin-bottom: 10px" type="checkbox" />
-                                                Agree with the terms and conditions
+                                                Etre d'accord avec les termes du contrat
                                             </label>
                                         </div>
 
