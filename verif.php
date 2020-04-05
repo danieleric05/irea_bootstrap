@@ -75,11 +75,11 @@
                                 <a class="nav-link active" role="tab" data-toggle="tab" href="#terrain">Terrain</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" role="tab" data-toggle="tab" href="#habitat">Lieu
+                                <a class="nav-link" role="tab" data-toggle="tab" href="#">Lieu
                                     d'habitation/Professionnel</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" role="tab" data-toggle="tab" href="#platation">Plantation</a>
+                                <a class="nav-link" role="tab" data-toggle="tab" href="#">Plantation</a>
                             </li>
                         </ul>
                         <div class="tab-content">
@@ -89,13 +89,19 @@
                                 <div class="panel-body">
                                     <form>
                                         <div class="form-row">
-                                            <div class="form-group col-md-6">
-                                                <label for="inputEmail4">Email</label>
-                                                <input type="email" class="form-control" id="inputEmail4">
+                                            <div class="form-group col-md-4">
+                                                <label for="inputState">Terrain</label>
+                                                <select id="inputState" class="form-control">
+                                                    <option selected>Urbain</option>
+                                                    <option>Rural</option>
+                                                </select>
                                             </div>
-                                            <div class="form-group col-md-6">
-                                                <label for="inputPassword4">Password</label>
-                                                <input type="password" class="form-control" id="inputPassword4">
+                                            <div class="form-group col-md-4">
+                                                <label for="inputState">Emplacment</label>
+                                                <select id="inputState" class="form-control">
+                                                    <option selected>Abidjan</option>
+                                                    <option>Intérieur</option>
+                                                </select>
                                             </div>
                                         </div>
                                         <div class="form-group">
@@ -113,13 +119,7 @@
                                                 <label for="inputCity">City</label>
                                                 <input type="text" class="form-control" id="inputCity">
                                             </div>
-                                            <div class="form-group col-md-4">
-                                                <label for="inputState">State</label>
-                                                <select id="inputState" class="form-control">
-                                                    <option selected>Choose...</option>
-                                                    <option>...</option>
-                                                </select>
-                                            </div>
+
                                             <div class="form-group col-md-2">
                                                 <label for="inputZip">Zip</label>
                                                 <input type="text" class="form-control" id="inputZip">
