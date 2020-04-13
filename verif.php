@@ -62,8 +62,8 @@
     <main class="main">
         <div class="container">
 
-            <div id="signupbox" style=" margin-top:50px"
-                class="mainbox col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
+            <div id="signupbox" style="margin-left:auto; margin-right: auto;"
+                class="mainbox mt-5 col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
                 <div class="card">
                     <div class="card-header">
                         <ul class="nav nav-tabs card-header-tabs">
