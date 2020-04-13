@@ -11,11 +11,7 @@
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <!------ Pour le formulaire ---------->
-    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
-    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
-    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
-    <script type="text/javascript" src="js/form.js"></script>
+    <script type="text/javascript" src="animation/js/form.js"></script>
 
     <title>IREA</title>
 </head>
@@ -68,9 +64,9 @@
 
             <div id="signupbox" style=" margin-top:50px"
                 class="mainbox col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
-                <div class="panel panel-info">
-                    <div class="panel-heading">
-                        <ul class="nav nav-tabs">
+                <div class="card">
+                    <div class="card-header">
+                        <ul class="nav nav-tabs card-header-tabs">
                             <li class="nav-item">
                                 <a class="nav-link active" role="tab" data-toggle="tab" href="#terrain">Terrain</a>
                             </li>
@@ -82,21 +78,19 @@
                                 <a class="nav-link" role="tab" data-toggle="tab" href="#">Plantation</a>
                             </li>
                         </ul>
-                        <div class="tab-content">
-                            <div role="tabpanel" class="tab-pane active" id="terrain">
-                                <div class="panel-title">Devis</div>
-
-                                <div class="panel-body">
+                    </div>
+                    <div class="card-body">
+                                <h5 class="card-title">Devis</h5>
                                     <form>
                                         <div class="form-row">
-                                            <div class="form-group col-md-4">
+                                            <div class="form-group col-md-6">
                                                 <label for="inputState">Terrain</label>
                                                 <select id="inputState" class="form-control">
                                                     <option selected>Urbain</option>
                                                     <option>Rural</option>
                                                 </select>
                                             </div>
-                                            <div class="form-group col-md-4">
+                                            <div class="form-group col-md-6">
                                                 <label for="inputState">Emplacment</label>
                                                 <select id="inputState" class="form-control">
                                                     <option selected>Abidjan</option>
@@ -127,9 +121,9 @@
                                         </div>
                                         <div class="form-group">
                                             <div class="form-check">
-                                                <input class="form-check-input" type="checkbox" id="gridCheck">
+                                                <input class="form-check-input" type="checkbox" value="" id="gridCheck">
                                                 <label class="form-check-label" for="gridCheck">
-                                                    Check me out
+                                                    Check this out
                                                 </label>
                                             </div>
                                         </div>
