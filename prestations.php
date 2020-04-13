@@ -65,7 +65,7 @@
             <div class="container">
             <h2 class="color_green"><strong>CONTENU DE PRESTATIONS</strong></h2>
             <ul>
-                <li><a href="#">Vérification</a> De Tout Document Afférent À L'achat De Biens Immobiliers</li>
+                <li><a href="verif.php">Vérification</a> De Tout Document Afférent À L'achat De Biens Immobiliers</li>
                 <li>Suivi De Travaux De Cons</li>
                 <li>Dépôt Et/Ou Suivi De Documents Administratifs Relatifs À Un Bien Acquis</li>
                 <li>Ingénierie Foncière</li>
