@@ -17,7 +17,7 @@
 </head>
 
 <body>
-    <!--<header>
+    <header>
         <nav class="navbar navbar-expand-lg fixed-top navbar-light bg-light">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample08"
                 aria-controls="navbarsExample08" aria-expanded="false" aria-label="Toggle navigation">
@@ -58,7 +58,7 @@
                 </ul>
             </div>
         </nav>
-    </header>-->
+    </header>
     <main class="main">
         <div class="container">
 
@@ -71,94 +71,74 @@
                                 <a class="nav-link active" role="tab" data-toggle="tab" href="#terrain">Terrain</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" role="tab" data-toggle="tab" href="#">Lieu
+                                <a class="nav-link" role="tab" data-toggle="tab" href="#habitat">Lieu
                                     d'habitation/Professionnel</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" role="tab" data-toggle="tab" href="#">Plantation</a>
+                                <a class="nav-link" role="tab" data-toggle="tab" href="#plantation">Plantation</a>
                             </li>
                         </ul>
                     </div>
-                    <div class="card-body">
+                    <div class="tab-content">
+                        <div role="tabpanel" class="tab-pane" id="terrain">
+                            <div id="terrain" class="card-body">
                                 <h5 class="card-title">Devis</h5>
-                                    <form>
-                                        <div class="form-row">
-<<<<<<< HEAD
-                                            <div class="form-group col-md-4">
-                                                <label for="inputTerrain">Terrain</label>
-                                                <select id="terrain" class="form-control">
-=======
-                                            <div class="form-group col-md-6">
-                                                <label for="inputState">Terrain</label>
-                                                <select id="inputState" class="form-control">
->>>>>>> 2b4b32b0068a502dfe769ef713591b2b72911981
-                                                    <option selected>Urbain</option>
-                                                    <option>Rural</option>
-                                                </select>
-                                            </div>
-<<<<<<< HEAD
-                                            <div class="form-group col-md-4">
-                                                <label for="inputEmplacment">Emplacment</label>
-                                                <select id="inputEmplacment" class="form-control">
-=======
-                                            <div class="form-group col-md-6">
-                                                <label for="inputState">Emplacment</label>
-                                                <select id="inputState" class="form-control">
->>>>>>> 2b4b32b0068a502dfe769ef713591b2b72911981
-                                                    <option selected>Abidjan</option>
-                                                    <option>Intérieur</option>
-                                                </select>
-                                            </div>
+                                <form>
+                                    <div class="form-row">
+                                        <div class="form-group col-md-6">
+                                            <label for="inputTerrain">Terrain</label>
+                                            <select id="terrain1" class="form-control">
+                                                <option selected>Urbain</option>
+                                                <option>Rural</option>
+                                            </select>
                                         </div>
-                                        <div class="form-group">
-                                            <label for="inputName">Nom</label>
-                                            <input type="text" class="form-control" id="nom"
-                                                placeholder="Nom de famille">
+                                        <div class="form-group col-md-6">
+                                            <label for="inputEmplacement">Emplacment</label>
+                                            <select id="emplacement" class="form-control">
+                                                <option selected>Abidjan</option>
+                                                <option>Intérieur</option>
+                                            </select>
                                         </div>
-                                        <div class="form-group">
-                                            <label for="inputPrenom">Prénoms</label>
-                                            <input type="text" class="form-control" id="prenoms"
-                                                placeholder="Prénoms">
-                                        </div>
-                                        <div class="form-group">
-                                            <label for="inputPrenom">Email</label>
-                                            <input type="email" class="form-control" id="email"
-                                                placeholder="Email du client">
-                                        </div>
-                                        <div class="form-row">
-                                            <div class="form-group col-md-6">
-                                                <label for="inputCity">City</label>
-                                                <input type="text" class="form-control" id="inputCity">
-                                            </div>
-
-                                            <div class="form-group col-md-2">
-                                                <label for="inputZip">Zip</label>
-                                                <input type="text" class="form-control" id="inputZip">
-                                            </div>
-                                        </div>
-                                        <div class="form-group">
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox" value="" id="gridCheck">
-                                                <label class="form-check-label" for="gridCheck">
-                                                    Check this out
-                                                </label>
-                                            </div>
-                                        </div>
-                                        <button type="submit" class="btn btn-primary">Sign in</button>
-                                    </form>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="inputNom">Nom</label>
+                                        <input type="text" class="form-control" id="nom" placeholder="Nom de famille">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="inputPrenom">Prénoms</label>
+                                        <input type="text" class="form-control" id="prenoms" placeholder="Prénoms">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="inputEmail">Email</label>
+                                        <input type="email" class="form-control" id="email"
+                                            placeholder="Email du client">
+                                    </div>
+                                    <!--<div class="form-group">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" value="" id="gridCheck">
+                                    <label class="form-check-label" for="gridCheck">
+                                        Check this out
+                                    </label>
                                 </div>
                             </div>
-                            <div role="tabpanel" class="tab-pane" id="habitat">
-                                <div id="habitat" class="panel-title">Devis</div>
-                                <p>on va vous orienter vers le sécretariat</p>
+                            <button type="submit" class="btn btn-primary">Sign in</button>-->
+                                </form>
+
                             </div>
-                            <div role="tabpanel" class="tab-pane" id="plantation">3</div>
                         </div>
+                        <div role="tabpanel" class="tab-pane" id="habitat">
+                            
+                            <p>on va vous orienter vers le sécretariat</p>
+                        </div>
+                        <div role="tabpanel" class="tab-pane" id="plantation">3</div>
                     </div>
+
+
+
                 </div>
             </div>
-        </div>
 
+        </div>
     </main>
 
     <!-- Optional JavaScript -->
