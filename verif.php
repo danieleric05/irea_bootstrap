@@ -90,29 +90,34 @@
                                     <form>
                                         <div class="form-row">
                                             <div class="form-group col-md-4">
-                                                <label for="inputState">Terrain</label>
-                                                <select id="inputState" class="form-control">
+                                                <label for="inputTerrain">Terrain</label>
+                                                <select id="terrain" class="form-control">
                                                     <option selected>Urbain</option>
                                                     <option>Rural</option>
                                                 </select>
                                             </div>
                                             <div class="form-group col-md-4">
-                                                <label for="inputState">Emplacment</label>
-                                                <select id="inputState" class="form-control">
+                                                <label for="inputEmplacment">Emplacment</label>
+                                                <select id="inputEmplacment" class="form-control">
                                                     <option selected>Abidjan</option>
                                                     <option>Intérieur</option>
                                                 </select>
                                             </div>
                                         </div>
                                         <div class="form-group">
-                                            <label for="inputAddress">Address</label>
-                                            <input type="text" class="form-control" id="inputAddress"
-                                                placeholder="1234 Main St">
+                                            <label for="inputName">Nom</label>
+                                            <input type="text" class="form-control" id="nom"
+                                                placeholder="Nom de famille">
                                         </div>
                                         <div class="form-group">
-                                            <label for="inputAddress2">Address 2</label>
-                                            <input type="text" class="form-control" id="inputAddress2"
-                                                placeholder="Apartment, studio, or floor">
+                                            <label for="inputPrenom">Prénoms</label>
+                                            <input type="text" class="form-control" id="prenoms"
+                                                placeholder="Prénoms">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="inputPrenom">Email</label>
+                                            <input type="email" class="form-control" id="email"
+                                                placeholder="Email du client">
                                         </div>
                                         <div class="form-row">
                                             <div class="form-group col-md-6">
