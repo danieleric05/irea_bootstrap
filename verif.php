@@ -50,11 +50,10 @@
                             href="prestations.php">Prestations</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="#">Contactez-nous</a>
+                        <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="contact_us.php">Contactez-nous</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="#">Connexion</a>
-                    </li>
                 </ul>
             </div>
         </nav>
