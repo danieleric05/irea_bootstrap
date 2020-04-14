@@ -61,7 +61,6 @@
     </header>
     <main class="main">
         <div class="container">
-
             <div id="signupbox" style="margin-left:auto; margin-right: auto;"
                 class="mainbox mt-5 col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
                 <div class="card">
@@ -80,7 +79,7 @@
                         </ul>
                     </div>
                     <div class="tab-content">
-                        <div role="tabpanel" class="tab-pane" id="terrain">
+                        <div role="tabpanel" class="tab-pane active" id="terrain">
                             <div id="terrain" class="card-body">
                                 <h5 class="card-title">Devis</h5>
                                 <form>
@@ -127,17 +126,12 @@
                             </div>
                         </div>
                         <div role="tabpanel" class="tab-pane" id="habitat">
-                            
                             <p>on va vous orienter vers le sécretariat</p>
                         </div>
                         <div role="tabpanel" class="tab-pane" id="plantation">3</div>
                     </div>
-
-
-
                 </div>
             </div>
-
         </div>
     </main>
 
