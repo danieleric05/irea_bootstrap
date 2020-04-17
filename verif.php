@@ -95,7 +95,6 @@
                                             <label for="inputEmplacement">Emplacment</label>
                                             <select id="emplacement" class="form-control">
                                                 <option selected value="abidjan">Abidjan</option>
-                                                <option>Intérieur</option>
                                                 <option value="abengourou">Abengourou</option>
                                                 <option value="abengourou">Aboisso</option>
                                                 <option value="abengourou">Abongoua</option>

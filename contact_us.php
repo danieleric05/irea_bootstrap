@@ -84,35 +84,46 @@
 
                     <!--Grid column-->
                     <div class="col-lg-5 mb-4">
-                        <div class="">
+                        <form action="" method="post">
                             <div class="form-row">
                                 <div class="form-group col-md-6">
                                     <label for="">Nom</label>
-                                    <input type="text" class="form-control" id="">
+                                    <input type="text" class="form-control" name="nom" id="">
                                 </div>
                                 <div class="form-group col-md-6">
-                                    <label for="">Prénoms</label>
-                                    <input type="text" class="form-control" id="">
+                                    <label for="">Objet</label>
+                                    <input type="text" class="form-control" name="objet" id="">
                                 </div>
                             </div>
 
                             <div class="md-form">
 
-                                <input type="email" id="" class="form-control">
+                                <input type="email" id="" name="email" class="form-control">
                                 <label for="form-Subject">Email</label>
                             </div>
 
                             <div class="md-form">
 
-                                <textarea id="form-text" class="form-control md-textarea" rows="3"
+                                <textarea id="form-text" name="message" class="form-control md-textarea" rows="3"
                                     style="height: 400px"></textarea>
                                 <label for="form-text">Entrez votre message</label>
                             </div>
 
                             <div class="text-center mt-4">
-                                <button class="btn btn-success">Envoyer</button>
+                                <button type="submit " class="btn btn-success">Envoyer</button>
                             </div>
-                        </div>
+                        </form>
+                        <?php
+                            if 
+                            (isset($_POST) && !empty($_POST['nom']) &&  !empty($_POST['objet']) && !empty($_POST['message']) ){
+                                extract($_POST);
+                                $destinataire ='infos@ireaconseils.com';
+                                $expediteur = $nom .' <'.$email.'>';
+                                $mail = mail($nom, $objet, $message, 
+                                $expediteur.' : De irea.com :Mail de test');
+                                if($mail) echo 'Email envoyé avec succes'; else echo 'Echec d\'envoi d\'émail';
+                         } else echo "Formulaire non soumis ou des champs invalides"
+                        ?>
                         <!--Body-->
 
 
@@ -125,7 +136,10 @@
                         <div class="">
                             <div id="map-container-google-11" class="z-depth-1-half map-container-6"
                                 style="height: 400px">
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3972.165233057186!2d-3.9836666852348337!3d5.391773796089302!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6014a4e9f92bdb71!2sINTERNATIONAL%20REAL%20ESTATE%20AGENCY%20(I.R.E.A)!5e0!3m2!1sfr!2sci!4v1583176150375!5m2!1sfr!2sci" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe></div>
+                                <iframe
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3972.165233057186!2d-3.9836666852348337!3d5.391773796089302!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6014a4e9f92bdb71!2sINTERNATIONAL%20REAL%20ESTATE%20AGENCY%20(I.R.E.A)!5e0!3m2!1sfr!2sci!4v1583176150375!5m2!1sfr!2sci"
+                                    width="600" height="450" frameborder="0" style="border:0;"
+                                    allowfullscreen=""></iframe></div>
 
                             <br>
                             <!--Buttons-->
@@ -139,7 +153,8 @@
                                 <div class="col-md-4">
                                     <a class="btn-floating blue accent-1"><i class="fa fa-phone"></i></a>
                                     <p>+225 20 00 05 63</p>
-                                    <a href="https://www.facebook.com/International-Real-Estate-Agency-IREA-105740061046856" class="fa fa-facebook"></a>
+                                    <a href="https://www.facebook.com/International-Real-Estate-Agency-IREA-105740061046856"
+                                        class="fa fa-facebook"></a>
                                     <a href="#" class="fa fa-youtube"></a>
                                     <a href="#" class="fa fa-linkedin"></a>
                                 </div>
