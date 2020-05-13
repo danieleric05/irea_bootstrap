@@ -64,8 +64,7 @@
         </div>
         <section>
             <div class="container my-5">
-                <h4 class="text-center"><span style="background-color :#facbcc;">Envoyez-nous un message ou
-                        retrouver-nous
+                <h4 class="text-center" style="color: blue"><span>Envoyez-nous un message ou retrouver-nous
                         directement sur la carte.</span></h4>
             </div>
         </section>

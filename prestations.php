@@ -59,8 +59,8 @@
         </div>
         <section>
             <div class="container my-5">
-                <h4 class="text-center"><span style="background-color :#facbcc;"> Nous offrons un package dense et varié pour assurer le suivi de vos projet <br> 
-                        <span class="color_green">depuis leur naissance jusqu'à leur développement</span></span></h4>
+                <h4 class="text-center" style="color: blue">Nous offrons un package dense et varié pour assurer le suivi de vos projet <br> 
+                        depuis leur naissance jusqu'à leur développement</span></h4>
             </div>
             <div class="container">
             <h2 class="color_green"><strong>CONTENU DE PRESTATIONS</strong></h2>

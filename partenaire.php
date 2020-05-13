@@ -68,9 +68,9 @@
 
         </section>
         <div class="container my-5">
-            <h4 class="text-center"><span style="background-color :#facbcc;">Nous travaillons avec des clients
-                    et partenaires d’industries diverses<br>et offrons toujours <span class="color_green">des
-                        partenariats gagnants</span></span></h4>
+            <h4 class="text-center" style="color: blue"><span>Nous travaillons avec des clients
+                    et partenaires d’industries diverses<br>et offrons toujours des
+                        partenariats gagnants</span></h4>
         </div>
         <section>
             <div class="mx-4 sm-2 text-center">

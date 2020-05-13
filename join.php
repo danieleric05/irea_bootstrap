@@ -68,7 +68,7 @@
 
         </section>
         <div class="container my-5">
-            <h4 class="text-center color_green"><span style="background-color :#facbcc;">Venez chez nous et
+            <h4 class="text-center" style="color: blue"><span>Venez chez nous et
                 profitez de nos avantages sur mesure</span></h4>
         </div>
         <section>
@@ -114,7 +114,7 @@
                     <div class="col">
                         <h3 class="color_green">Avantage 6</h3>
                         <img class="img-fluid" src="img/bg1-6.jpg" alt="">
-                        <p>A travers notre réseau, bénéficiez de la saisine de nos partenaires avocats, notaires,
+                        <p>A travers notre réseau, bénéficiez de la saisine de nos partenaires : avocats, notaires,
                             fiscalistes, architectes, agents immobiliers, experts immobiliers…
 
                         </p>
