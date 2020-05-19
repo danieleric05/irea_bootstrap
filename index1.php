@@ -45,7 +45,7 @@
                     <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="contact_us.php">Contactez-nous</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="#">Connexion</a>
+                    <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="admin/register.php">Connexion</a>
                 </li>
                 </ul>
             </div>
@@ -110,7 +110,7 @@
             </div>
 
             <div class="row mb-3 mx-0">
-            <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xs-6 align-self-center mx-0 p-5"><video class="img-fluid" style="" src="animation/anim3-2.webm" autoplay loop></video></div>
+            <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xs-6 align-self-center mx-0 p-5"><video class="img-fluid" src="animation/anim3-2.webm" autoplay loop></video></div>
             <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xs-6 align-self-center mx-0"><video class="img-fluid" src="animation/anim3.webm" autoplay loop></video></div>
             </div>
 
