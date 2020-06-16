@@ -45,7 +45,7 @@
                     <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="contact_us.php">Contactez-nous</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="admin/register.php">Connexion</a>
+                    <a class="nav-link btn btn-outline-secondary mx-2" role="button" href="admin/admin.php">Connexion</a>
                 </li>
                 </ul>
             </div>

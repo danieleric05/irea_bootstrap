@@ -70,7 +70,7 @@
         <div class="container my-5">
             <h4 class="text-center" style="color: blue"><span>Nous travaillons avec des clients
                     et partenaires d’industries diverses<br>et offrons toujours des
-                        partenariats gagnants</span></h4>
+                    partenariats gagnants</span></h4>
         </div>
         <section>
             <div class="mx-4 sm-2 text-center">
@@ -123,20 +123,28 @@
                             </ul>
                         </p>
                     </div>
-                    <!--<div class="col">
-                        <img class="img-fluid center-block" src="img/colas.jpg" alt="">
-                        <p class="pt-2 text-left">Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
-                            ou de partenariat avec la franchise IREA
+                    <div class="col">
+                        <img class="img-fluid center-block" src="img/logo_notaire.png" alt="">
+                        <p class="pt-2 text-left">le notaire est un officier public nommé par le Ministre de la justice,
+                            intervenant dans l’ensemble des domaines du droit immobilier
+                            et patrimoine, rural, collectivité… Agissant pour le compte de l’Etat,
+                            il confère aux actes qu’il rédige un gage de sérieux et d’authenticité. Cela signifie qu’il
+                            possède de véritables prérogatives de puissance publique qu’il reçoit de l’Etat.
                         </p>
                     </div>
                     <div class="col">
 
-                        <img class="img-fluid center-block"  src="img/ivotel.jpg" alt="">
-                        <p class="pt-2 text-left">Description du secteur d’activité du partenaire et présentation brèves du type d’acquisition
-                            ou de partenariat avec la franchise IREA
-
+                        <img class="img-fluid center-block" src="img/ordre_des_avocats.png" alt="">
+                        <p class="pt-2 text-left"> A la tête de l'Ordre, se trouve le Bâtonnier élu tous les trois (3) ans
+                            par l'Assemblée Générale des Avocats.
+                            Le Bâtonnier dirige et représente l'Ordre. Il préside le Conseil de l'Ordre et les
+                            Assemblées Générales des Avocats.
+                            Il est responsable de la gestion journalière de l'Ordre.
+                            Il conseille les avocats dans les difficultés qu'ils peuvent rencontrer dans leur vie
+                            professionnelle, règle les incidents qui peuvent surgir entre eux et intervient dans les
+                            différends qu'ils peuvent avoir avec les tribunaux.
                         </p>
-                    </div>-->
+                    </div>
                 </div>
             </div>
         </section>
