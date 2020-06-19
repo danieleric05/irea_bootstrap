@@ -14,27 +14,26 @@
 
     <div class="sidenav">
          <div class="login-main-text">
-            <h2>Application<br> Login Page</h2>
-            <p>Login or register from here to access.</p>
+            <h2>Application De Gestion IREA<br> Page de Connexion</h2>
+            <p>Connecter Vous ou Enrégistrer vous !</p>
          </div>
       </div>
       <div class="main">
          <div class="col-md-6 col-sm-12">
             <div class="login-form">
-            <span class="logo"><img src="" alt=""></span>
             <?php include_once "inc/script_login.php"?>
                 <?php if(isset($erreur)){ echo $erreur;}?>
                <form action="" method="post">
                   <div class="form-group">
-                     <label>User Name</label>
-                     <input type="text" class="form-control input-sm chat-input" name="username" placeholder="Username">
+                     <label>Nom d'utilisateur</label>
+                     <input type="text" class="form-control input-sm chat-input" name="username" placeholder="Utilisateur">
                   </div>
                   <div class="form-group">
-                     <label>Password</label>
-                     <input type="password" class="form-control input-sm chat-input" name="password" placeholder="Password">
+                     <label>Mot de passe</label>
+                     <input type="password" class="form-control input-sm chat-input" name="password" placeholder="Mot de passe">
                   </div>
                   <button type="submit" name="submit" class="btn btn-black">Se connecter</button>
-                  <button type="submit" class="btn btn-secondary">S'enrégistrer</button>
+                  <button type="submit" class="btn btn-secondary">S'enregistrer</button>
                </form>
             </div>
          </div>

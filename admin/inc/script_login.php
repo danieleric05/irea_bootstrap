@@ -32,6 +32,6 @@ if(isset($_POST['submit'])){
         }
 
     }else{
-    $erreur ="Veuillez saisir un nom d\'utilisateur";
+    $erreur ="Veuillez saisir un nom d'utilisateur";
     }
 }
