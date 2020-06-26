@@ -59,7 +59,7 @@
         </div>
         <section>
             <div class="container my-5">
-                <h4 class="text-center" style="color: blue">Nous offrons un package dense et varié pour assurer le suivi de vos projet <br> 
+                <h4 class="text-center" style="color: blue">Nous offrons un package dense et varié pour assurer le suivi de vos projets <br> 
                         depuis leur naissance jusqu'à leur développement</span></h4>
             </div>
             <div class="container">
