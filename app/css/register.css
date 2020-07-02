@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    margin-top: 25%;
+    border-radius: 1px solid #017bf5;
+    padding: 10px 15 px;
+}
+
+form input {
+    outline: none !important;
+}
+
+form input:focus {
+    border-color: #017bf5;
+    outline: none;
+}
